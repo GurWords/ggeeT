@@ -1,6 +1,5 @@
 package main;
 
-import javax.persistence.Entity;
 
 public class Main {
     
